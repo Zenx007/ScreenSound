@@ -3,24 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\banco\\screensoundcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banco\\screensoundcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\menus\\menusair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menusair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\menus\\menuregistrarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuregistrarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\menus\\menumostrarmusicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menumostrarmusicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\migrations\\20250513191350_adicionarmusicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\migrations\\20250513191350_adicionarmusicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\migrations\\screensoundcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\migrations\\screensoundcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\modelos\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\banco\\screensoundcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banco\\screensoundcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\menus\\menumostrarmusicaporano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menumostrarmusicaporano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\migrations\\20250513193314_atualizarmusicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\migrations\\20250513193314_atualizarmusicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\menus\\menuregistrarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuregistrarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\menus\\menuregistrarartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\menus\\menumostrarartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menumostrarartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|c:\\users\\zenxp\\source\\repos\\screensound\\screensound\\banco\\artistadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9279C7C-CAD3-4B84-BD75-FEE8401CA1BE}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banco\\artistadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +66,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuSair.cs",
-              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuSair.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuSair.cs",
-              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuSair.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuSair.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:25:23.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MenuRegistrarMusica.cs",
-              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuRegistrarMusica.cs",
-              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuRegistrarMusica.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:25:22.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuRegistrarArtistas.cs",
-              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuRegistrarArtistas.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuRegistrarArtistas.cs",
-              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuRegistrarArtistas.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuRegistrarArtistas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:21:28.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MenuMostrarMusicas.cs",
-              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuMostrarMusicas.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuMostrarMusicas.cs",
-              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuMostrarMusicas.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuMostrarMusicas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:21:08.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MenuMostrarArtistas.cs",
-              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuMostrarArtistas.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuMostrarArtistas.cs",
-              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuMostrarArtistas.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuMostrarArtistas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:20:20.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\Menu.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\Menu.cs",
-              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\Menu.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T16:15:54.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ScreenSoundContext.cs",
-              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Banco\\ScreenSoundContext.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Banco\\ScreenSoundContext.cs",
-              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Banco\\ScreenSoundContext.cs",
-              "RelativeToolTip": "ScreenSound\\Banco\\ScreenSoundContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:37:46.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ArtistaDAL.cs",
-              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Banco\\ArtistaDAL.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Banco\\ArtistaDAL.cs",
-              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Banco\\ArtistaDAL.cs",
-              "RelativeToolTip": "ScreenSound\\Banco\\ArtistaDAL.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:37:40.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
               "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T19:17:48.881Z",
+              "WhenOpened": "2025-05-13T19:54:41.42Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuMostrarArtistas.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuMostrarArtistas.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuMostrarArtistas.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuMostrarArtistas.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuMostrarArtistas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:03:39.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Banco\\DAL.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Banco\\DAL.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Banco\\DAL.cs",
+              "RelativeToolTip": "ScreenSound\\Banco\\DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:55:10.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuMostrarMusicaPorAno.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuMostrarMusicaPorAno.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuMostrarMusicaPorAno.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuMostrarMusicaPorAno.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuMostrarMusicaPorAno.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:06:45.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Modelos\\Artista.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Artista.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Modelos\\Artista.cs",
+              "RelativeToolTip": "ScreenSound\\Modelos\\Artista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:53:40.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250513191350_AdicionarMusicas.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Migrations\\20250513191350_AdicionarMusicas.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Migrations\\20250513191350_AdicionarMusicas.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Migrations\\20250513191350_AdicionarMusicas.cs",
+              "RelativeToolTip": "ScreenSound\\Migrations\\20250513191350_AdicionarMusicas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:03:43.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250513193314_AtualizarMusicas.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Migrations\\20250513193314_AtualizarMusicas.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Migrations\\20250513193314_AtualizarMusicas.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Migrations\\20250513193314_AtualizarMusicas.cs",
+              "RelativeToolTip": "ScreenSound\\Migrations\\20250513193314_AtualizarMusicas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:03:42.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Modelos\\Musica.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Musica.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Modelos\\Musica.cs",
+              "RelativeToolTip": "ScreenSound\\Modelos\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:57:16.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScreenSoundContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Migrations\\ScreenSoundContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Migrations\\ScreenSoundContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Migrations\\ScreenSoundContextModelSnapshot.cs",
+              "RelativeToolTip": "ScreenSound\\Migrations\\ScreenSoundContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:03:41.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuMostrarMusicas.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuMostrarMusicas.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuMostrarMusicas.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuMostrarMusicas.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuMostrarMusicas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:53:29.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScreenSoundContext.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Banco\\ScreenSoundContext.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Banco\\ScreenSoundContext.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Banco\\ScreenSoundContext.cs",
+              "RelativeToolTip": "ScreenSound\\Banco\\ScreenSoundContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:11:14.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\Menu.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\Menu.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\Menu.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:03:54.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuRegistrarMusica.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuRegistrarMusica.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuRegistrarMusica.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:44:49.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuRegistrarArtistas.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuRegistrarArtistas.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuRegistrarArtistas.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound\\Menus\\MenuRegistrarArtistas.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuRegistrarArtistas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:44:41.55Z",
               "EditorCaption": ""
             }
           ]
