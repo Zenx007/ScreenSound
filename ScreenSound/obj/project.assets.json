@@ -76,6 +76,25 @@
           }
         }
       },
+      "Microsoft.AspNetCore.OpenApi/8.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.OpenApi": "1.4.3"
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Microsoft.Bcl.AsyncInterfaces/7.0.0": {
         "type": "package",
         "compile": {
@@ -987,6 +1006,19 @@
           }
         }
       },
+      "Microsoft.OpenApi/1.4.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.SqlServer.Server/1.0.0": {
         "type": "package",
         "compile": {
@@ -1459,6 +1491,36 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "ScreenSound.Shared.Dados/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": "8.0.0",
+          "Microsoft.Data.SqlClient": "6.0.2",
+          "Microsoft.EntityFrameworkCore.Proxies": "9.0.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.5",
+          "ScrendSound.Shared.Modelos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ScreenSound.Shared.Dados.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ScreenSound.Shared.Dados.dll": {}
+        }
+      },
+      "ScrendSound.Shared.Modelos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": "8.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ScrendSound.Shared.Modelos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ScrendSound.Shared.Modelos.dll": {}
+        }
       }
     }
   },
@@ -1541,6 +1603,21 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "Microsoft.AspNetCore.OpenApi/8.0.0": {
+      "sha512": "T4mwMvPSOYAp+KeQ4xO8H2rxpiOMJ9W/7yBBkUTMp96AHtGlPN4s7hbax2tM61LxTY775JKL4fiv5grn41EHXw==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.openapi/8.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net8.0/Microsoft.AspNetCore.OpenApi.dll",
+        "lib/net8.0/Microsoft.AspNetCore.OpenApi.xml",
+        "microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.openapi.nuspec"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/7.0.0": {
@@ -3288,6 +3365,20 @@
         "microsoft.identitymodel.tokens.nuspec"
       ]
     },
+    "Microsoft.OpenApi/1.4.3": {
+      "sha512": "rURwggB+QZYcSVbDr7HSdhw/FELvMlriW10OeOzjPT7pstefMo7IThhtNtDudxbXhW+lj0NfX72Ka5EDsG8x6w==",
+      "type": "package",
+      "path": "microsoft.openapi/1.4.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.OpenApi.dll",
+        "lib/netstandard2.0/Microsoft.OpenApi.pdb",
+        "lib/netstandard2.0/Microsoft.OpenApi.xml",
+        "microsoft.openapi.1.4.3.nupkg.sha512",
+        "microsoft.openapi.nuspec"
+      ]
+    },
     "Microsoft.SqlServer.Server/1.0.0": {
       "sha512": "N4KeF3cpcm1PUHym1RmakkzfkEv3GRMyofVv40uXsQhCQeglr2OHNcUk2WOG51AKpGO8ynGpo9M/kFXSzghwug==",
       "type": "package",
@@ -4106,15 +4197,27 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "ScreenSound.Shared.Dados/1.0.0": {
+      "type": "project",
+      "path": "../ScreenSound.Shared.Dados/ScreenSound.Shared.Dados.csproj",
+      "msbuildProject": "../ScreenSound.Shared.Dados/ScreenSound.Shared.Dados.csproj"
+    },
+    "ScrendSound.Shared.Modelos/1.0.0": {
+      "type": "project",
+      "path": "../ScrendSound.Shared.Modelos/ScrendSound.Shared.Modelos.csproj",
+      "msbuildProject": "../ScrendSound.Shared.Modelos/ScrendSound.Shared.Modelos.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Microsoft.AspNetCore.OpenApi >= 8.0.0",
       "Microsoft.Data.SqlClient >= 6.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.5",
       "Microsoft.EntityFrameworkCore.Proxies >= 9.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.5",
-      "Microsoft.EntityFrameworkCore.Tools >= 9.0.5"
+      "Microsoft.EntityFrameworkCore.Tools >= 9.0.5",
+      "ScreenSound.Shared.Dados >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4148,7 +4251,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj": {
+              "projectPath": "C:\\Users\\zenxp\\source\\repos\\ScreenSound\\ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -4167,6 +4274,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": {
+            "target": "Package",
+            "version": "[8.0.0, )"
+          },
           "Microsoft.Data.SqlClient": {
             "target": "Package",
             "version": "[6.0.2, )"
